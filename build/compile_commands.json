@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/ange/Desktop/json_parse_write/build",
+  "command": "D:\\my_app\\msy2\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\json_parse_write.dir\\main.cc.obj -c C:\\Users\\ange\\Desktop\\json_parse_write\\main.cc",
+  "file": "C:\\Users\\ange\\Desktop\\json_parse_write\\main.cc"
+},
+{
+  "directory": "C:/Users/ange/Desktop/json_parse_write/build",
+  "command": "D:\\my_app\\msy2\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\json_parse_write.dir\\cJSON.c.obj -c C:\\Users\\ange\\Desktop\\json_parse_write\\cJSON.c",
+  "file": "C:\\Users\\ange\\Desktop\\json_parse_write\\cJSON.c"
+}
+]

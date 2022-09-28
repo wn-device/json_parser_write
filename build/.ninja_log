@@ -1,0 +1,5 @@
+# ninja log v5
+20	414	6860750760814221	CMakeFiles/json_parse_write.dir/cJSON.c.obj	cee58a021d59833c
+5	677	6860750763441371	CMakeFiles/json_parse_write.dir/main.cpp.obj	b376d948acb2e161
+4	81	6860781099208170	CMakeFiles/json_parse_write.dir/main.cc.obj	3d6007c814847332
+82	180	6860781100115430	json_parse_write.exe	17716fc4d6690cea

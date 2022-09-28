@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "numbers": "cpp",
+        "algorithm": "cpp"
+    },
+    "cmake.debugConfig": {
+        "args": ["D:/work/data/DSC0540.tiff","-p","D:/work/data/DSC0540.ARW.pp3","-s","-t","-Y","-c","D:/work/data/DSC0540.ARW"],
+        "cwd": "${workspaceFolder}"
+    }
+}
